@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Nuxt build output
+.nuxt/
+dist/
+
+# IDE/OS files
+.vscode/
+.DS_Store
